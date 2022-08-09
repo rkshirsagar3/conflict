@@ -4,3 +4,6 @@ lineA
 line3
 line4
 line5
+hello
+hiii
+bye
